@@ -2,8 +2,8 @@
 
 MODEL=64
 
-VCDIR="\Program Files (x86)\Microsoft Visual Studio 10.0\VC"
-SDKDIR="\Program Files (x86)\Microsoft SDKs\Windows\v7.0A"
+VCDIR="C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC"
+SDKDIR="C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A"
 
 DMD=dmd
 
